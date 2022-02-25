@@ -1,0 +1,13 @@
+This is a basic dotnet app that should run with a simple:
+
+dotnet run
+
+the app comes up offering the Swagger/WeatherForecast sample app.   There's a script called:
+
+curl_it.sh
+
+that will fire requests off of the website. The app has been tied in with AppInsights.
+
+You should be able to see requests there.
+-MM  (2/3/2022)
+
